@@ -48,7 +48,7 @@
     "src"
   ],
   "dependencies": {
-    "@types/randombytes": "^2.0.0",
+    "@types/randombytes": "^2.0.3",
     "bech32": "^2.0.0",
     "bip174-liquid": "^1.0.3",
     "bip66": "^1.1.0",
