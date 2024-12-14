@@ -519,10 +519,10 @@ bitcoinjs-lib@^6.0.2:
     varuint-bitcoin "^1.1.2"
     wif "^2.0.1"
 
-bitset@^5.1.1:
-  version "5.1.1"
-  resolved "https://registry.npmjs.org/bitset/-/bitset-5.1.1.tgz"
-  integrity sha512-oKaRp6mzXedJ1Npo86PKhWfDelI6HxxJo+it9nAcBB0HLVvYVp+5i6yj6DT5hfFgo+TS5T57MRWtw8zhwdTs3g==
+bitset@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/bitset/-/bitset-5.2.3.tgz#dbd8de12851aa8be51f700a1280080bb9c4df38d"
+  integrity sha512-uZ7++Z60MC9cZ+7YzQ1v9yPDydcjhmcMjGx2yoGTjjSXBoVMmTr2LCRbkpI19S9P/C75hhP7Bsakj+gVzVUDbQ==
 
 blech32@^1.0.1:
   version "1.1.2"
